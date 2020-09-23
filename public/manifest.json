@@ -1,7 +1,6 @@
 
-
 {
-  "name": "Task Planner",
+  "name": "Task Planner App",
   "icons": [
     {
       "src": "favicon.ico",
@@ -19,9 +18,9 @@
       "sizes": "512x512"
     }
   ],
-  "short_name": "TP",
-  "theme_color": "#745a74",
-  "background_color": "#ffffff",
+  "short_name": "TPA",
+  "theme_color": "#5ea4dd",
+  "background_color": "#2196f3",
   "display": "standalone",
   "scope": "/",
   "start_url": "/"
